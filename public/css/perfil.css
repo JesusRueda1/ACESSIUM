@@ -1,0 +1,61 @@
+
+.usuarioEdit{
+
+
+    border: 0;
+    background-color: #fff;
+    box-shadow: 0 0 12px rgba(0, 0, 0, .2);
+    width: 45px;
+    height: 45px;
+    border-radius: 50% ;
+    cursor: pointer;
+}
+
+img.avatar{
+ width:30%;
+ border-radius: 50%;
+}
+.conteni{
+    text-align: center;
+    margin: 24px 0 12px 0;
+}
+.perfilinput {
+    width: 100%;
+    border: 0;
+outline: 0px;
+    border-bottom: 1px solid rgb(3, 3, 3);
+    background: transparent;
+    outline: none;
+    border-radius: 2px;
+margin-top:20px;
+margin-bottom:30px;
+
+
+}
+
+ @media  screen and (max-width: 999px) and (min-width: 200px){
+    .perfilinpu{
+        width:80px;
+    }
+    .card{
+        width: 105%;
+        right:0px;
+        color: #39A900;
+       /*  box-shadow: 10px 5px 5px rgb(197, 189, 189); */
+    }
+    label{
+    width:100px;
+    }
+    img.avatar{
+        width:60%;
+        border-radius: 50%;
+    }
+
+
+}
+
+
+
+
+
+

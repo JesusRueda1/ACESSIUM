@@ -1,0 +1,22 @@
+.footer {
+ text-align: center;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    padding: 2rem 8%;
+    background-color: #39A900;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.redes{
+    color: #fff;
+    font-family:  "Josefin Sans", sans-serif;;
+}
+.copyright {
+    color: #fff;
+    opacity: 0.3;
+    text-align: center;
+
+}
